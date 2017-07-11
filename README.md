@@ -48,7 +48,7 @@ Using a deep neural network to borrow the skills of real artists and turn  two-b
 The algorithm allows to transfer the style from one image (for example, a painting) to a whole video sequence and generates consistent and stable stylized video sequences.
 
 ## Running 
-###For the naive implementation
+### For the naive implementation
 python BilinearClassifier.py
 ### For the CNN method
 `python neural_style.py --content <content file> --styles <style file> --output <output file>`
